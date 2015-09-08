@@ -82,30 +82,8 @@ Here are some of the main features of FireShell:
 └── .travis.yml
 ````
 
-## Contributing
-
-Steps to contributing:
-
-* Create your feature branch, commit changes and push to origin
-* Submit a Pull Request with details on your feature branch
-
-Guidelines:
-* Non-trivial changes should be discussed in an issue first
-* Do not create issues for support reasons, use [Stack Overflow](http://stackoverflow.com)
-
 FireShell is maintained by [Todd Motto](//github.com/toddmotto) and it's contributors; [Jean-Philippe Sirois](//github.com/jpsirois), [Noah Bass](//github.com/noahbass), [Bernard Chhun](//github.com/bchhun), [Chris Missal](//github.com/ChrisMissal), [Mihai Ionut Vilcu](//github.com/ionutvmi), [Octavio Amuchastegui](//github.com/octavioamu).
 
-## Roadmap
-
-Projected roadmap for FireShell and it's subsets builds.
-
-* Integrate Grunt-init to allow for initial project naming (for dynamic CSS/JS banners)
-* LESS.css variant (`less` dir inside `src`), keeping Sass as default but providing Gruntfile.js setup
-* AngularJS FireShell build with MVC scaffolding
-* Bower as package manager
-* Static HTML Includes FireShell build (emulates server-side includes)
-* PHP FireShell spawning a `localhost` with relevant includes
-* Create a Yeoman generator for FireShell
 
 ## License
 
