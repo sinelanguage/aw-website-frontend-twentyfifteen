@@ -50,6 +50,12 @@
 
 body {
         color: white;
+
+        // background-color: #0063ff;
+        // background-image: linear-gradient(-180deg, #0063FF 1%, #FF00F4 94%);
+
+        background-color: #062939;
+//background-image: radial-gradient(#1A4C64 0%, #062939 100%);
 }
 
 // HOMEPAGE
@@ -64,8 +70,7 @@ body {
                 right: 0;
                 bottom: 0;
                 left: 0;
-                background-color: #0063ff;
-                background-image: linear-gradient(-180deg, #0063FF 1%, #FF00F4 94%);
+                background-color: transparent;
 
                 .content {
 
