@@ -60,11 +60,21 @@ body {
 
 // HOMEPAGE
 
+// audio {
+//         display: none;
+//         border-radius: 0px;
+//         -webkit-media-controls-panel {
+//                 border: 1px solid white;
+//                 background-color: transparent;
+//                 border-radius: 0px;
+//         }
+// }
+
 .container {
 
         &.container--wtf {
 
-                display: block;
+                // display: block;
                 position: absolute;
                 top: 0;
                 right: 0;
